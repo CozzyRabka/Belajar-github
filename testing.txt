@@ -1,8 +1,5 @@
 Kenapa ayam menyebrang ?
 Untuk sampai ke sebrang jalan
-<<<<<<< HEAD
 lucu banget lu hamdeh banget
-=======
-lucu banget lu hamdeh
 mengapa
->>>>>>> 90e7c14 (Menambahkan fitur)
+siapa
